@@ -1,0 +1,22 @@
+To-do list to create this website
+
+1. Build the project
+   - creating the folders
+   - adding files
+   - connecting files
+
+2. NavBar
+   - 2 links and a name
+
+3. Portfolio item grid
+   - generate 3*4 or 4*3 total 12 box 
+   - images
+   - titles
+   - description 
+   - animations
+   - javascript implementation
+
+4. Build out about page
+   - image
+   - split column layout
+   - few contents
