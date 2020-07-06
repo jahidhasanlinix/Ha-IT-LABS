@@ -1,0 +1,14 @@
+// Use for API config it use mostly
+// [] array which insdie have object 
+[
+	{
+		"name": "Jahid",
+		"age": 25,
+		"height": 178
+	},
+	{
+		"name": "Hasan",
+		"age": 26,
+		"height": 177
+	}
+]
